@@ -1,0 +1,6 @@
+br\com\digitalhouse\oficina\ControladorCliente\ControladorCliente.class
+br\com\digitalhouse\oficina\Repository\VeiculoRepository.class
+br\com\digitalhouse\oficina\clientservices\logger.class
+br\com\digitalhouse\oficina\clientservices\VeiculoService.class
+br\com\digitalhouse\oficina\Repository\ClientRepository.class
+br\com\digitalhouse\oficina\clientservices\ClientServices.class
